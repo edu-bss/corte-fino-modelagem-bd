@@ -110,8 +110,9 @@ Uma futura implantação produtiva deverá incorporar controles técnicos, admin
 
 Autores:
 EDUARDO BATISTA DA SILVA SOUSA
+GUILHERME COUTO PEREIRA
 GUILHERME MARQUES HONORIA 
-MATHEUS BORGES CORDEIRO 
+MATHEUS BORGES CORDEIRO
 
 
 Status
